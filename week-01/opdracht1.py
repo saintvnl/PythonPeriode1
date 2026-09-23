@@ -1,17 +1,17 @@
 # Oefening 1
 # Print de volgende zin "Hello World"
 
-print()
+print("Hello World")
 
 
 # Oefening 2
 # Verander de waarde van de onderstaande variabelen.
 # Print deze daarna 1 voor 1 uit
 
-naam = ""
-leeftijd = 0
-woonstad = ""
-
+naam = "rayan"
+leeftijd = 16
+woonstad = "nieuwegein"
+print(naam)
 
 # Oefening 3
 # Gebruik nu bovenstaande variabelen om zinnen te bouwen

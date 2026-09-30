@@ -11,17 +11,34 @@ print("Hello World")
 naam = "rayan"
 leeftijd = 16
 woonstad = "nieuwegein"
-print(naam)
+print(naam) 
+print (leeftijd)
+print (woonstad)
 
 # Oefening 3
 # Gebruik nu bovenstaande variabelen om zinnen te bouwen
-# Bijvoorbeeld print("Hallo mijn naam is ", naam) of print(f"Mijn naam is {naam}")
+# Bijvoorbeeld print("Hallo mijn naam is  ", naam) of print(f"Mijn naam is {naam}")
 
+naam = "rayan"
+leeftijd = 16
+woonstad = "nieuwegein"
 
+print("Hallo mijn naam is", naam)
+print("Ik ben", leeftijd, "jaar oud")
+print("Ik woon in", woonstad)
 
 # Oefening 4
 # Maak variabelen aan voor je favoriete game, hoe veel uur je deze hebt gespeeld en welk cijfer je dit spel zou geven
 # Print deze daarna in zinnen uit, bijvoorbeeld "Mijn favoriete game is Minecraft" "Ik heb deze game 150 uur gespeeld", "Ik geef deze game een 8.5"
+
+game = " rocket league"
+gespeeld = 400
+cijfer = 8.5
+
+print ("mijn favoriete game is", game)
+print ("ik heb deze game", 400 , " uur gespeeld")
+print ("ik geef deze game een", cijfer)
+
 
 
 
@@ -29,6 +46,13 @@ print(naam)
 # Maak twee variabelen aan, number1 en number2
 # Bereken daarna de som (+), het verschil (-) en het product (*) uit van deze nummers.
 # Print daarna de uitkomsten uit
+
+number 1 = 5+5
+number 2 = 4-2
+
+
+
+
 
 
 

@@ -47,8 +47,8 @@ print ("ik geef deze game een", cijfer)
 # Bereken daarna de som (+), het verschil (-) en het product (*) uit van deze nummers.
 # Print daarna de uitkomsten uit
 
-number 1 = 5+5
-number 2 = 4-2
+number1 = 5+5
+number2 = 4-2
 
 
 

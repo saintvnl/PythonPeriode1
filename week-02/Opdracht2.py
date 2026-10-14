@@ -6,12 +6,18 @@
 # Controleer met een if-statement:
 # - Is de leeftijd 18 of hoger?
 #   Print dan: "Je bent volwassen."
+age = 18
+if age >= 18:
+    print("Je bent volwassen.")
 #
 # - Anders:
 #   Print dan: "Je bent nog geen 18."
+
+else:
+    print("Je bent nog geen 18.")
+
 #
 # Test je programma daarna met verschillende waardes voor age.
-
 
 
 # Opdracht 2 - Voldoende of onvoldoende
@@ -20,11 +26,16 @@
 # Geef deze variabele een cijfer.
 #
 # Controleer met een if-statement:
+grade = 6
+
+if grade >= 5.5:
+    print("Je hebt een voldoende!")
 #
 # - Is het cijfer 5.5 of hoger?
 #   Print: "Je hebt een voldoende!"
 #
-# - Anders:
+# - Anders:else:
+    print("Je hebt een onvoldoende.")
 #   Print: "Je hebt een onvoldoende."
 #
 # Test je programma met verschillende cijfers.
